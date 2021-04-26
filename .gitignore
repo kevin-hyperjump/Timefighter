@@ -1,0 +1,15 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Android Studio
+*.iml
+.idea
+.gradle
+.cxx
+.externalNativeBuild
+local.properties
+/build
+/captures
+/local.properties
